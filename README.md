@@ -1,1 +1,1 @@
-# PSIC
+The application is developed using object oriented programming language. It is an appointment booking application to a doctor by patients and visitors.The application is implemented with many features which is convenient to both doctor and the patient.
